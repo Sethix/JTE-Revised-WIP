@@ -1,0 +1,8 @@
+forest x 3
+harkotan
+caves (lambda X 15 garnet X 6)
+tundra
+quarry
+vegas (lambda X 15 diamond X 6)
+vopar x 2
+tunnels

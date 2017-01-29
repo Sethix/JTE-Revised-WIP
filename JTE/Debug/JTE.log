@@ -1,0 +1,5 @@
+﻿  Camera.cpp
+c:\users\justin\documents\visual studio 2015\projects\jte\jte\camera.cpp(49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\justin\documents\visual studio 2015\projects\jte\jte\camera.cpp(50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\justin\documents\visual studio 2015\projects\jte\jte\camera.cpp(56): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  JTE.vcxproj -> C:\Users\Justin\Documents\Visual Studio 2015\Projects\JTE\Debug\JTE.lib

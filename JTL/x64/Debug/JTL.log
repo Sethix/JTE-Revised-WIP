@@ -1,0 +1,15 @@
+﻿  Vector4.cpp
+  Vector3.cpp
+  Vector2.cpp
+  Quaternion.cpp
+c:\users\justin\documents\visual studio 2015\projects\jte\jtl\quaternion.cpp(211): warning C4002: too many actual parameters for macro 'assert'
+c:\users\justin\documents\visual studio 2015\projects\jte\jtl\quaternion.cpp(223): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Matrix4.cpp
+  Matrix3.cpp
+  Matrix2.cpp
+  JTLMath.cpp
+c:\users\justin\documents\visual studio 2015\projects\jte\jtl\jtlmath.cpp(9): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\justin\documents\visual studio 2015\projects\jte\jtl\jtlmath.cpp(9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+c:\users\justin\documents\visual studio 2015\projects\jte\jtl\quaternion.h(101): warning C4717: 'JTL::Quaternion::dot': recursive on all control paths, function will cause runtime stack overflow
+LINK : fatal error LNK1561: entry point must be defined

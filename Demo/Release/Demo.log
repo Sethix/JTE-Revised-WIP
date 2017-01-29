@@ -1,0 +1,111 @@
+﻿  game.cpp
+c:\users\justin\documents\visual studio 2015\projects\jte\jte\Collider2D.h(13): warning C4099: 'JTL::Engine::CollisionData': type name first seen using 'struct' now seen using 'class'
+  c:\users\justin\documents\visual studio 2015\projects\jte\jte\Convex2D.h(16): note: see declaration of 'JTL::Engine::CollisionData'
+c:\users\justin\documents\visual studio 2015\projects\jte\jte\Rigidbody2D.h(9): warning C4099: 'JTL::Engine::Transform': type name first seen using 'class' now seen using 'struct'
+  c:\users\justin\documents\visual studio 2015\projects\jte\jte\Collider3D.h(14): note: see declaration of 'JTL::Engine::Transform'
+JTE.lib(Time.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+JTE.lib(Transform.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+JTE.lib(Transform.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+JTE.lib(Camera.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+JTE.lib(Camera.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+JTE.lib(Rigidbody2D.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+JTE.lib(Rigidbody2D.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+JTE.lib(Input.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+JTE.lib(Input.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+JTE.lib(Collider2D.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+JTE.lib(Collider2D.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+JTE.lib(Assets.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+JTE.lib(Assets.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+JTE.lib(AABB2D.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+JTE.lib(AABB2D.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+JTE.lib(Circle.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+JTE.lib(Circle.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+JTE.lib(Ray2D.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+JTE.lib(Ray2D.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+JTE.lib(Plane2D.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+JTE.lib(Plane2D.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+JTE.lib(Convex2D.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+JTE.lib(Convex2D.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+JTE.lib(GLUtilities.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+JTE.lib(GLUtilities.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+JTL.lib(Matrix4.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+JTL.lib(Matrix4.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+JTL.lib(Quaternion.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+JTL.lib(Quaternion.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+JTL.lib(Vector2.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+JTL.lib(Vector2.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+JTL.lib(Vector3.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+JTL.lib(Vector3.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+JTL.lib(Vector4.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+JTL.lib(Vector4.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+JTL.lib(JTLMath.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+JTL.lib(JTLMath.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+game.obj : error LNK2001: unresolved external symbol "public: void __thiscall JTL::Engine::Rigidbody3D::integrate(class JTL::Engine::Transform const *,float const &)" (?integrate@Rigidbody3D@Engine@JTL@@QAEXPBVTransform@23@ABM@Z)
+JTE.lib(Time.obj) : error LNK2001: unresolved external symbol _glfwGetTime
+JTE.lib(Input.obj) : error LNK2001: unresolved external symbol _glfwGetTime
+JTE.lib(Convex2D.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+JTE.lib(Transform.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+JTE.lib(Camera.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+JTE.lib(Collider2D.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+JTE.lib(Assets.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+JTE.lib(Convex2D.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+JTE.lib(Transform.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+JTE.lib(Camera.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+JTE.lib(Collider2D.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+JTE.lib(Assets.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+JTE.lib(Camera.obj) : error LNK2001: unresolved external symbol __imp__glViewport@16
+JTE.lib(Window.obj) : error LNK2001: unresolved external symbol __imp__glBlendFunc@8
+JTE.lib(Window.obj) : error LNK2001: unresolved external symbol __imp__glClear@4
+JTE.lib(Window.obj) : error LNK2001: unresolved external symbol __imp__glClearColor@16
+JTE.lib(Window.obj) : error LNK2001: unresolved external symbol __imp__glEnable@4
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol __imp__glEnable@4
+JTE.lib(Window.obj) : error LNK2001: unresolved external symbol _glewInit@0
+JTE.lib(Window.obj) : error LNK2001: unresolved external symbol _glfwInit
+JTE.lib(Window.obj) : error LNK2001: unresolved external symbol _glfwTerminate
+JTE.lib(Window.obj) : error LNK2001: unresolved external symbol _glfwGetPrimaryMonitor
+JTE.lib(Window.obj) : error LNK2001: unresolved external symbol _glfwWindowHint
+JTE.lib(Window.obj) : error LNK2001: unresolved external symbol _glfwCreateWindow
+JTE.lib(Window.obj) : error LNK2001: unresolved external symbol _glfwWindowShouldClose
+JTE.lib(Window.obj) : error LNK2001: unresolved external symbol _glfwGetFramebufferSize
+JTE.lib(Window.obj) : error LNK2001: unresolved external symbol _glfwPollEvents
+JTE.lib(Window.obj) : error LNK2001: unresolved external symbol _glfwMakeContextCurrent
+JTE.lib(Window.obj) : error LNK2001: unresolved external symbol _glfwSwapBuffers
+JTE.lib(Window.obj) : error LNK2001: unresolved external symbol _glfwSwapInterval
+JTE.lib(Window.obj) : error LNK2001: unresolved external symbol _glewExperimental
+JTE.lib(Input.obj) : error LNK2001: unresolved external symbol _glfwGetKey
+JTE.lib(Input.obj) : error LNK2001: unresolved external symbol _glfwGetMouseButton
+JTE.lib(Input.obj) : error LNK2001: unresolved external symbol _glfwGetCursorPos
+JTE.lib(Input.obj) : error LNK2001: unresolved external symbol _glfwJoystickPresent
+JTE.lib(Input.obj) : error LNK2001: unresolved external symbol _glfwGetJoystickAxes
+JTE.lib(Input.obj) : error LNK2001: unresolved external symbol _glfwGetJoystickButtons
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol __imp__glBindTexture@8
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol __imp__glDeleteTextures@8
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol __imp__glDrawElements@16
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol __imp__glGenTextures@8
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol __imp__glTexImage2D@36
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol __imp__glTexParameteri@12
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol ___glewActiveTexture
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol ___glewBindBuffer
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol ___glewBufferData
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol ___glewDeleteBuffers
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol ___glewGenBuffers
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol ___glewAttachShader
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol ___glewCompileShader
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol ___glewCreateProgram
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol ___glewCreateShader
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol ___glewDeleteProgram
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol ___glewDeleteShader
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol ___glewEnableVertexAttribArray
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol ___glewLinkProgram
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol ___glewShaderSource
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol ___glewUniform1i
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol ___glewUniformMatrix4fv
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol ___glewUseProgram
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol ___glewVertexAttribPointer
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol ___glewBindVertexArray
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol ___glewDeleteVertexArrays
+JTE.lib(GLUtilities.obj) : error LNK2001: unresolved external symbol ___glewGenVertexArrays
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\JTE\Release\Demo.exe : fatal error LNK1120: 55 unresolved externals

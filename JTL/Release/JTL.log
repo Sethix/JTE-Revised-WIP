@@ -1,0 +1,13 @@
+﻿  JTLMath.cpp
+JTLMath.cpp(9): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+JTLMath.cpp(9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Matrix2.cpp
+  Matrix3.cpp
+  Matrix4.cpp
+  Quaternion.cpp
+Quaternion.cpp(211): warning C4002: too many actual parameters for macro 'assert'
+Quaternion.cpp(223): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Vector2.cpp
+  Vector3.cpp
+  Vector4.cpp
+LINK : fatal error LNK1561: entry point must be defined

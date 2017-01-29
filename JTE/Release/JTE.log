@@ -1,0 +1,96 @@
+﻿  AABB2D.cpp
+c:\users\justin\documents\visual studio 2015\projects\jte\jte\Collider2D.h(13): warning C4099: 'JTL::Engine::CollisionData': type name first seen using 'struct' now seen using 'class'
+  c:\users\justin\documents\visual studio 2015\projects\jte\jte\Convex2D.h(16): note: see declaration of 'JTL::Engine::CollisionData'
+c:\users\justin\documents\visual studio 2015\projects\jte\jte\Rigidbody2D.h(9): warning C4099: 'JTL::Engine::Transform': type name first seen using 'class' now seen using 'struct'
+  c:\users\justin\documents\visual studio 2015\projects\jte\jte\Collider3D.h(14): note: see declaration of 'JTL::Engine::Transform'
+AABB2D.cpp(119): warning C4804: '<=': unsafe use of type 'bool' in operation
+  Animator2D.cpp
+  Animator3D.cpp
+  Assets.cpp
+  Camera.cpp
+c:\users\justin\documents\visual studio 2015\projects\jte\jte\Collider2D.h(13): warning C4099: 'JTL::Engine::CollisionData': type name first seen using 'struct' now seen using 'class'
+  c:\users\justin\documents\visual studio 2015\projects\jte\jte\Convex2D.h(16): note: see declaration of 'JTL::Engine::CollisionData'
+c:\users\justin\documents\visual studio 2015\projects\jte\jte\Rigidbody2D.h(9): warning C4099: 'JTL::Engine::Transform': type name first seen using 'class' now seen using 'struct'
+  c:\users\justin\documents\visual studio 2015\projects\jte\jte\Collider3D.h(14): note: see declaration of 'JTL::Engine::Transform'
+Camera.cpp(18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Camera.cpp(19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Camera.cpp(65): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Camera.cpp(66): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Camera.cpp(100): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Camera.cpp(101): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Camera.cpp(110): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+Camera.cpp(113): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+Camera.cpp(113): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+Camera.cpp(116): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+Camera.cpp(119): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+Camera.cpp(122): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+Camera.cpp(122): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+Camera.cpp(125): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+Camera.cpp(125): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+Camera.cpp(128): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+Camera.cpp(128): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+Camera.cpp(131): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+Camera.cpp(134): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+Camera.cpp(134): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+Camera.cpp(139): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+Camera.cpp(139): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  Circle.cpp
+  Collider2D.cpp
+c:\users\justin\documents\visual studio 2015\projects\jte\jte\Collider2D.h(13): warning C4099: 'JTL::Engine::CollisionData': type name first seen using 'struct' now seen using 'class'
+  c:\users\justin\documents\visual studio 2015\projects\jte\jte\Convex2D.h(16): note: see declaration of 'JTL::Engine::CollisionData'
+  Collider3D.cpp
+  Convex2D.cpp
+Convex2D.cpp(48): warning C4018: '<': signed/unsigned mismatch
+Convex2D.cpp(265): warning C4018: '<': signed/unsigned mismatch
+Convex2D.cpp(271): warning C4018: '<': signed/unsigned mismatch
+  Convex3D.cpp
+Convex3D.cpp(47): warning C4018: '<': signed/unsigned mismatch
+Convex3D.cpp(266): warning C4018: '<': signed/unsigned mismatch
+Convex3D.cpp(272): warning C4018: '<': signed/unsigned mismatch
+Convex3D.cpp(301): warning C4316: 'JTL::Vector3': object allocated on the heap may not be aligned 32
+Convex3D.cpp(302): warning C4316: 'JTL::Vector3': object allocated on the heap may not be aligned 32
+Convex3D.cpp(304): warning C4018: '<': signed/unsigned mismatch
+  AABB3D.cpp
+AABB3D.cpp(113): warning C4804: '<=': unsafe use of type 'bool' in operation
+  GLUtilities.cpp
+GLUtilities.cpp(208): warning C4018: '<': signed/unsigned mismatch
+  Input.cpp
+Input.cpp(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Input.cpp(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Input.cpp(48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Input.cpp(49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Input.cpp(52): warning C4018: '<': signed/unsigned mismatch
+Input.cpp(58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Input.cpp(59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Input.cpp(66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Input.cpp(67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Input.cpp(69): warning C4018: '<': signed/unsigned mismatch
+  Lifespan.cpp
+  Model.cpp
+  Plane2D.cpp
+c:\users\justin\documents\visual studio 2015\projects\jte\jte\Collider2D.h(13): warning C4099: 'JTL::Engine::CollisionData': type name first seen using 'struct' now seen using 'class'
+  c:\users\justin\documents\visual studio 2015\projects\jte\jte\Convex2D.h(16): note: see declaration of 'JTL::Engine::CollisionData'
+c:\users\justin\documents\visual studio 2015\projects\jte\jte\Rigidbody2D.h(9): warning C4099: 'JTL::Engine::Transform': type name first seen using 'class' now seen using 'struct'
+  c:\users\justin\documents\visual studio 2015\projects\jte\jte\Collider3D.h(14): note: see declaration of 'JTL::Engine::Transform'
+  Plane3D.cpp
+  PlayerController.cpp
+  Ray2D.cpp
+c:\users\justin\documents\visual studio 2015\projects\jte\jte\Collider2D.h(13): warning C4099: 'JTL::Engine::CollisionData': type name first seen using 'struct' now seen using 'class'
+  c:\users\justin\documents\visual studio 2015\projects\jte\jte\Convex2D.h(16): note: see declaration of 'JTL::Engine::CollisionData'
+c:\users\justin\documents\visual studio 2015\projects\jte\jte\Rigidbody2D.h(9): warning C4099: 'JTL::Engine::Transform': type name first seen using 'class' now seen using 'struct'
+  c:\users\justin\documents\visual studio 2015\projects\jte\jte\Collider3D.h(14): note: see declaration of 'JTL::Engine::Transform'
+  Ray3D.cpp
+  Compiling...
+  Rigidbody2D.cpp
+c:\users\justin\documents\visual studio 2015\projects\jte\jte\Transform.h(14): warning C4099: 'JTL::Engine::Transform': type name first seen using 'struct' now seen using 'class'
+  c:\users\justin\documents\visual studio 2015\projects\jte\jte\Transform.h(14): note: see declaration of 'JTL::Engine::Transform'
+  Rigidbody3D.cpp
+  Sphere.cpp
+  Sprite.cpp
+  Time.cpp
+Time.cpp(11): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+Time.cpp(17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Transform.cpp
+  Window.cpp
+Window.cpp(10): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+LINK : fatal error LNK1561: entry point must be defined

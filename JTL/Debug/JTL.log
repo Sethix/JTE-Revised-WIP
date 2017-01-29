@@ -1,0 +1,12 @@
+﻿  Quaternion.cpp
+c:\users\justin\documents\visual studio 2015\projects\jte\jtl\quaternion.cpp(121): warning C4172: returning address of local variable or temporary: result
+c:\users\justin\documents\visual studio 2015\projects\jte\jtl\quaternion.cpp(114): warning C4172: returning address of local variable or temporary: result
+c:\users\justin\documents\visual studio 2015\projects\jte\jtl\quaternion.cpp(142): warning C4172: returning address of local variable or temporary: result
+c:\users\justin\documents\visual studio 2015\projects\jte\jtl\quaternion.cpp(150): warning C4172: returning address of local variable or temporary: result
+c:\users\justin\documents\visual studio 2015\projects\jte\jtl\quaternion.cpp(135): warning C4172: returning address of local variable or temporary: result
+c:\users\justin\documents\visual studio 2015\projects\jte\jtl\quaternion.cpp(157): warning C4172: returning address of local variable or temporary: result
+c:\users\justin\documents\visual studio 2015\projects\jte\jtl\quaternion.cpp(171): warning C4172: returning address of local variable or temporary: result
+c:\users\justin\documents\visual studio 2015\projects\jte\jtl\quaternion.cpp(164): warning C4172: returning address of local variable or temporary: result
+c:\users\justin\documents\visual studio 2015\projects\jte\jtl\quaternion.cpp(178): warning C4172: returning address of local variable or temporary: result
+c:\users\justin\documents\visual studio 2015\projects\jte\jtl\quaternion.cpp(128): warning C4172: returning address of local variable or temporary: result
+  JTL.vcxproj -> C:\Users\Justin\Documents\Visual Studio 2015\Projects\JTE\Debug\JTL.lib
