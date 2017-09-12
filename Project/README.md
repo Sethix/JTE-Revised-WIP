@@ -1,7 +1,7 @@
 # JTE-Revised-WIP
 Uploading early to satisfy technical requirements of school.
 
-# What the hell is (random file)?
+# What the (random file)?
 My downloads were defaulted to my engine location for a while, so I missed some files. Oops!
 
 # Okay... Where is the actual read-me?
